@@ -15,7 +15,6 @@
 
 ![图片](https://user-images.githubusercontent.com/32357397/177259805-ad0d36c5-deb6-4330-b709-a6e5d148ce14.png)
 
-
 ## 使用指南：Github Action自动部署！
 
 1. 先`fork`本仓库
@@ -192,4 +191,5 @@ pip install -r requirements.txt
   Terms in  ['2020-2021-1']
   学年必修总学分：10.000000, 学年绩点：4.629412
   ```
+
 
